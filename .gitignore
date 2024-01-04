@@ -1,0 +1,46 @@
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# IntelliJ-specific files
+.idea/
+
+# Compiled bytecode
+*.iml
+*.ipr
+*.iws
+out/
+
+src/trialPackage/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Maven-specific files
+target/
+
+# Eclipse-specific files
+.settings/
+.project
+.classpath
+
+# Gradle-specific files
+build/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA crash logs
+hs_err_pid*
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.opensdf
